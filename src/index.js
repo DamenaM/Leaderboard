@@ -1,5 +1,5 @@
 import './style.css';
-import Score from "./Modules/score.js";
+import Score from './Modules/score.js';
 
 const allscore = new Score();
 

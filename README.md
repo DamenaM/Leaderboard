@@ -1,5 +1,5 @@
 # MihertabDamena.github.io
-capstone project - ICT EXPO Conference page
+Leaderboard page
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -21,8 +21,7 @@ capstone project - ICT EXPO Conference page
 <!-- PROJECT DESCRIPTION -->
 
 # 📖To Do list: list structure: <a name="about-project"></a>
-
->In this project, you will build a simple HTML list of To Do tasks. The list will be styled according to the specifications listed later in this lesson. This simple web page will be built using webpack and served by a webpack dev server.
+In this activity you will set up a JavaScript project for the Leaderboard list app, using webpack and ES6 features, notably modules. You should develop a first working version of the app following a wireframe, but without styling - just focus on functionality. In following activities, you will consume the Leaderboard API using JavaScript async and await and add some styling.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -38,7 +37,7 @@ capstone project - ICT EXPO Conference page
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-- adding and removing books list 
+- adding score Leaderboard
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

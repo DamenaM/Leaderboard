@@ -1,5 +1,5 @@
 # MihertabDamena.github.io
-capstone project - ICT EXPO Conference page
+Leaderboard page
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -21,8 +21,7 @@ capstone project - ICT EXPO Conference page
 <!-- PROJECT DESCRIPTION -->
 
 # 📖To Do list: list structure: <a name="about-project"></a>
-
->In this project, you will build a simple HTML list of To Do tasks. The list will be styled according to the specifications listed later in this lesson. This simple web page will be built using webpack and served by a webpack dev server.
+In this activity you will set up a JavaScript project for the Leaderboard list app, using webpack and ES6 features
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -38,7 +37,10 @@ capstone project - ICT EXPO Conference page
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-- adding and removing books list 
+- set up a JavaScript project for the Leaderboard list app
+- the app  a wireframe without styling
+- Adding  Score interface 
+- adding score Leaderboard
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -70,7 +72,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-``git clone `https://github.com/DamenaM/To-Do-list.git`
+``git clone `https://github.com/DamenaM/Leaderboard.git`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -95,7 +97,7 @@ Clone this repository to your desired folder:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/DamenaM/Awesome-books.git).
+Feel free to check the [issues page](https://github.com/DamenaM/Leaderboard.git).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

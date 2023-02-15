@@ -21,7 +21,7 @@ Leaderboard page
 <!-- PROJECT DESCRIPTION -->
 
 # 📖To Do list: list structure: <a name="about-project"></a>
-In this activity you will set up a JavaScript project for the Leaderboard list app, using webpack and ES6 features, notably modules. You should develop a first working version of the app following a wireframe, but without styling - just focus on functionality. In following activities, you will consume the Leaderboard API using JavaScript async and await and add some styling.
+In this activity you will set up a JavaScript project for the Leaderboard list app, using webpack and ES6 features
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -37,6 +37,9 @@ In this activity you will set up a JavaScript project for the Leaderboard list a
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
+- set up a JavaScript project for the Leaderboard list app
+- the app  a wireframe without styling
+- Adding  Score interface 
 - adding score Leaderboard
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -69,7 +72,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-``git clone `https://github.com/DamenaM/To-Do-list.git`
+``git clone `https://github.com/DamenaM/Leaderboard.git`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -94,7 +97,7 @@ Clone this repository to your desired folder:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/DamenaM/Awesome-books.git).
+Feel free to check the [issues page](https://github.com/DamenaM/Leaderboard.git).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

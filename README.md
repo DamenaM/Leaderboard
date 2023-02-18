@@ -1,7 +1,7 @@
 # MihertabDamena.github.io
 Leaderboard page
 <!-- TABLE OF CONTENTS -->
-
+image.png
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -58,7 +58,6 @@ Feel free to check the [issues page](https://github.com/DamenaM/Leaderboard/issu
 <!-- LIVE DEMO -->
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://damenam.github.io/DamenaM/Leaderboard/git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -107,7 +106,7 @@ Clone this repository to your desired folder:
 
 ## Show your support <a name="support"></a>
 
-> If you like this project please give a ⭐️ to this repository.
+> If you like this project please give a astar  to this repository.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

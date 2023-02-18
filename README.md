@@ -55,15 +55,10 @@ Feel free to check the [issues page](https://github.com/DamenaM/Leaderboard/issu
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 <!-- LIVE DEMO -->
-
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Link to deployed project.
-
-
-
+- [Live Demo Link](https://damenam.github.io/DamenaM/Leaderboard/git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

@@ -1,6 +1,8 @@
 body {
-  background-color: rgb(255, 255, 255);
   font-family: 'Times New Roman', Times, serif;
+  background-image: url('./giorgio.jpg');
+  background-repeat: no-repeat;
+  background-size: 100%;
 }
 
 .score-Display {

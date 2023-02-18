@@ -21,7 +21,8 @@ Leaderboard page
 <!-- PROJECT DESCRIPTION -->
 
 # 📖To Do list: list structure: <a name="about-project"></a>
-In this activity you will set up a JavaScript project for the Leaderboard list app, using webpack and ES6 features
+In this activity  set up a JavaScript project for the Leaderboard list app, using webpack and ES6 features. the activities, 
+you will consume the Leaderboard API using JavaScript async and await and add  styling.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -36,11 +37,21 @@ In this activity you will set up a JavaScript project for the Leaderboard list a
 
 <!-- Features -->
 
+
 ### Key Features <a name="key-features"></a>
 - set up a JavaScript project for the Leaderboard list app
 - the app  a wireframe without styling
 - Adding  Score interface 
 - adding score Leaderboard
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/DamenaM/Leaderboard/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -93,18 +104,13 @@ Clone this repository to your desired folder:
 
 <!-- CONTRIBUTING -->
 
-## 🤝 Contributing <a name="contributing"></a>
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/DamenaM/Leaderboard.git).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- SUPPORT -->
 
-## ⭐️ Show your support <a name="support"></a>
+## Show your support <a name="support"></a>
 
 > If you like this project please give a ⭐️ to this repository.
 

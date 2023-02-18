@@ -23,7 +23,8 @@ body {
   padding: 2px;
   display: none;
 }
-.warningLabel{
+
+.warningLabel {
   color: rgb(232, 74, 7);
   font-size: 18px;
   text-align: center;
@@ -31,7 +32,7 @@ body {
   padding: 2px;
   display: none;
 }
-            
+
 
 .Recent-score {
   display: flex;
@@ -56,10 +57,12 @@ button {
   width: 70px;
   height: 30px;
 }
+
 .resent {
   display: flex;
   gap: 10px;
 }
+
 .score-container {
   display: flex;
   padding: 6px;
@@ -104,8 +107,4 @@ input::placeholder {
 .submit-btn {
   align-self: flex-end;
   justify-self: flex-end;
-}
-
-.form-title {
-  text-align: center;
 }

@@ -1,12 +1,12 @@
-const tableBody = document.querySelector('.tableBody');
+const scoreDisplay = document.querySelector('.tableBody');
 const displayScores = (arr) => {
-  tableBody.innerHTML = '';
+  scoreDisplay.innerHTML = '';
   const displayScores = arr.map(
     (item) => `
           <tr >
           <td class="score-container" ><span>${item.user} : ${item.score}</span></td>
         </tr>`,
   );
-  tableBody.innerHTML = displayScores.join(' ');
+  scoreDisplay.innerHTML = displayScores.join(' ');
 };
 export default displayScores;
